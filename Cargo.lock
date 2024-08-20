@@ -2834,7 +2834,6 @@ version = "0.27.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "cf4e226dcd58b4be396f7bd3c20da8fdee2911400705297ba7d2d7cc2c30f716"
 dependencies = [
- "cc",
  "pkg-config",
  "vcpkg",
 ]
@@ -2859,7 +2858,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "205ceca5947f473c76f34175de70b15d9e8fadbbdb1bba45d4973037bbdb5fc7"
 dependencies = [
  "cc",
- "libz-sys",
  "openssl-sys",
  "pkg-config",
 ]
